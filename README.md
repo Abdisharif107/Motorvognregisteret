@@ -11,12 +11,12 @@ Static frontend served from Spring Boot
 Uses Bootstrap for basic styling
 
 🛠️ Tech Stack
-Java
-Spring Boot
-Maven
-HTML / CSS
-JavaScript
-Bootstrap 3
+Java,
+Spring Boot,
+Maven,
+HTML / CSS,
+JavaScript,
+Bootstrap 3,
 jQuery
 
 
