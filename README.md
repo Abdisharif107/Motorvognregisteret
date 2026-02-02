@@ -19,26 +19,6 @@ JavaScript
 Bootstrap 3
 jQuery
 
-📁 Project Structure
-Motorvogn/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com.example.motorvogn/
-│   │   │       ├── Controller.java
-│   │   │       ├── Motorvogn.java
-│   │   │       └── MotorvognApplication.java
-│   │   └── resources/
-│   │       ├── static/
-│   │       │   ├── index.html
-│   │       │   └── index.js
-│   │       └── application.properties
-│   └── test/
-├── pom.xml
-├── mvnw
-├── mvnw.cmd
-└── README.md
-▶️ How to Run the Application
 
 1️⃣ Clone the repository
 git clone https://github.com/Abdisharif107/Motorvognregisteret.git
